@@ -1,49 +1,87 @@
 # Ashu Arora
 
-**Economist · Public Policy Researcher · Data Analyst**
+### Economist · Applied Research · Public Policy
 
-I work at the intersection of **economics, public policy, and applied data research**, with a focus on questions around development, inequality, gender, health, institutions, and international economics.
+> **I use data to understand how institutions, markets, and policies shape people's lives.**
 
-I hold a **Master of International Economics and Finance from Johns Hopkins SAIS** and have experience in quantitative research, econometrics, policy analysis, and data visualization.
+I am an economist and public policy researcher interested in questions at the intersection of **development, inequality, institutions, gender, health, and international economics**.
 
-### What I work on
+My work combines economic theory with empirical evidence—using data not simply to describe what is happening, but to understand **why it is happening and what it means for policy**.
 
-* 📊 **Applied Economics & Econometrics** — panel data, causal inference, fixed effects, DiD, IV, RDD, and nonlinear models
-* 🌍 **Development & Public Policy** — inequality, gender, health, institutions, migration, and economic development
-* 📈 **Data Analysis & Visualization** — turning large and complex datasets into interpretable evidence
-* 🔎 **Research** — literature review, empirical analysis, reproducible workflows, and policy-oriented writing
+🎓 **MIEF, Johns Hopkins SAIS**
 
-### Tools
+---
 
-**Languages & Analysis**
-`Python` · `R` · `Stata` · `SQL`
+### 🔎 Research interests
 
-**Data & Visualization**
-`Pandas` · `NumPy` · `Matplotlib` · `Power BI` · `Excel`
+**Development Economics**
+Poverty · Inequality · Gender · Health · Institutions
 
-**Research**
-`Econometrics` · `Panel Data` · `Causal Inference` · `Data Visualization` · `Reproducible Research`
+**International Economics**
+Capital Mobility · Trade · Investment · Globalization
 
-### Selected Research
+**Public Policy**
+Social policy · Human development · Migration · Education
 
-**Post-COVID Feldstein–Horioka Puzzle**
-Empirical analysis of capital mobility and savings-investment relationships using OECD panel data, with fixed-effects and nonlinear approaches.
+**Applied Econometrics**
+Panel Data · Fixed Effects · Causal Inference · Nonlinear Models
 
-**Gender, Health & Ageing**
-Research examining the relationship between functional status, marital status, and health outcomes among older women.
+---
 
-**Universities & Global Rankings**
-Analysis of India's performance in global university rankings and what aggregate rankings reveal—and conceal—about institutional performance.
+### 🧮 The economist's toolkit
 
-### Currently
+I work primarily with:
 
-* 🔬 Developing research projects for **academic publication and PhD applications**
-* 🐍 Expanding my **Python and data science** toolkit
-* 📚 Exploring research questions in **development economics and public policy**
-* ✍️ Writing about economics, institutions, and public policy
+`Stata` · `R` · `Python` · `SQL` · `Excel` · `Power BI`
 
-### Let's connect
+Methods include:
 
-I'm interested in collaborating on **empirical research, public policy, development economics, and data-driven projects**.
+`Panel Data` · `Fixed Effects` · `DiD` · `IV` · `RDD` · `RCTs` · `PSTR`
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Google Scholar](YOUR_GOOGLE_SCHOLAR_URL) · [Email](mailto:YOUR_EMAIL)
+---
+
+### 📚 Selected work
+
+**Capital Mobility after COVID-19**
+An empirical examination of the Feldstein–Horioka puzzle using international panel data, asking whether the relationship between domestic saving and investment has changed in the post-COVID period.
+
+**Gender, Ageing & Health**
+Research examining how functional status and marital status interact in shaping health outcomes among older women.
+
+**Institutions & Development**
+Research exploring how bureaucratic institutions and state capacity influence development outcomes.
+
+**India & Global Universities**
+Data-driven analysis of India's performance in global university rankings and what aggregate rankings reveal about institutional performance.
+
+---
+
+### 🛠️ What you'll find here
+
+This GitHub is a collection of my:
+
+* empirical research
+* economic data analysis
+* replication exercises
+* econometric code
+* data visualizations
+* research workflows
+* experiments with Python, R and Stata
+
+My goal is to make research **transparent, reproducible, and understandable**.
+
+---
+
+### 🌱 Currently exploring
+
+`Economic Data Science` · `Development Economics` · `Public Policy` · `Causal Inference` · `Python`
+
+I'm particularly interested in using computational tools to ask **better economic questions**, rather than simply applying more sophisticated methods.
+
+---
+
+### Let's talk
+
+I'm always interested in conversations and collaborations around **economics, public policy, development, empirical research, and data**.
+
+
